@@ -1,6 +1,5 @@
 # Demo_TextCheckUP
-CheckIP
-
+# Python Module
 pip install colorama
 
 pip install requets
